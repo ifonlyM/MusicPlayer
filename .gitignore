@@ -1,5 +1,2 @@
 ## mp3 확장자 전체 무시
 *.mp3
-
-## musiclist 폴더 무시
-musiclist/
